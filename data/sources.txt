@@ -1,0 +1,6 @@
+OpenWeatherMap
+https://openweathermap.org/api
+
+
+US climate data
+https://www.usclimatedata.com/climate/san-diego/california/united-states/usca0982/2019/2
